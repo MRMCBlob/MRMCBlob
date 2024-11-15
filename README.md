@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 🔭 I’m currently working on my own music streaming app<br>👯 I’m collaborating with hasenhood<br>🤝 I’m looking for help with my life<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about nothing <br>⚡ Fun fact i have over 200+ Projekts but only working on 1 
 
@@ -24,6 +25,10 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/konusubamap) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mrmcblob) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Mr_mcblob) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mrmcblob) 
 
+## 🎧 My last played SONGS on SPOTIFY
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <div align="center">
+  <a href="https://open.spotify.com/user/31cp47prbac77hhi25ep3ij6gsea">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cp47prbac77hhi25ep3ij6gsea&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
