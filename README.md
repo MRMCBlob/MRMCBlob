@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on my own RPG open world minecraft server<br>👯 I’m collaborating with hasenhood<br>🤝 I’m looking for help with my life<br>🌱 I’m currently learning Kotlin<br>💬 Ask me about nothing <br>⚡ Fun fact i have over 200+ Projekts but only working on 1 
+🔭 I’m currently working on my own Discord opensource Bot<br>👯 I’m collaborating with hasenhood<br>🤝 I’m looking for help with my life<br>🌱 I’m currently learning discord.py<br>💬 Ask me about nothing <br>⚡ Fun fact i have over 200+ Projekts but only working on 1 
 
 
 # 💻 Tech Stack:
